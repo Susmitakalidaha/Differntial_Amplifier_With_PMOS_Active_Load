@@ -1,0 +1,22 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\Users\susmi\OneDrive\Desktop\Project\Differential amplifier with PMOS current source load.asc
+Start Time: Mon Aug 26 01:22:56 2024
+Error on line 1224 : v(2): 4.93573 voltage
+	 Unknown parameter "voltage"
+Error on line 1225 : v(6): 1.131 voltage
+	 Unknown parameter "voltage"
+Error on line 1226 : v(5): 4.93573 voltage
+	 Unknown parameter "voltage"
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Instance "m1": Length shorter than recommended for a level 1 MOSFET.
+Instance "m2": Length shorter than recommended for a level 1 MOSFET.
+Instance "m5": Length shorter than recommended for a level 1 MOSFET.
+Instance "m3": Length shorter than recommended for a level 1 MOSFET.
+Instance "m4": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.146 seconds.
+
